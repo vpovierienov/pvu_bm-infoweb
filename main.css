@@ -307,8 +307,8 @@ img.image-1 {
   .images-bottom {
     flex-wrap: wrap;
   }
-  
+
   .offer__btn {
-    padding: 0;
+    padding: auto;
   }
 }
