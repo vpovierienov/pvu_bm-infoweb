@@ -34,7 +34,7 @@ header {
   padding-top: 57px;
   height: 900px;
   color: white;
-  background-image: url(/header-bg.jpg);
+  background-image: url(header-bg.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -306,5 +306,9 @@ img.image-1 {
   
   .images-bottom {
     flex-wrap: wrap;
+  }
+  
+  .offer__btn {
+    padding: 0;
   }
 }
